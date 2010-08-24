@@ -3,9 +3,3 @@ with the Castle Windsor IoC container using the Windsor WCFFacility.
 
 The service has an interceptor that prints information to the console
 whenever the service is called.
-
-To see it in action:
-   1. Run the service
-   2. Type the following URL into your browser:
- 
-     http://localhost:8080/sum/4/5
