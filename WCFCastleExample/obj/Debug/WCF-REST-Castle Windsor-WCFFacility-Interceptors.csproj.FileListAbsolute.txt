@@ -1,0 +1,7 @@
+C:\Users\Steven\git_hub\WCF-REST-Castle Windsor-WCFFacility-Interceptors\WCF-REST-Castle Windsor-WCFFacility-Interceptors\bin\Debug\WCF_REST_WindsorWCFFacility_Interceptors.exe
+C:\Users\Steven\git_hub\WCF-REST-Castle Windsor-WCFFacility-Interceptors\WCF-REST-Castle Windsor-WCFFacility-Interceptors\bin\Debug\WCF_REST_WindsorWCFFacility_Interceptors.pdb
+C:\Users\Steven\git_hub\WCF-REST-Castle Windsor-WCFFacility-Interceptors\WCF-REST-Castle Windsor-WCFFacility-Interceptors\bin\Debug\Castle.Facilities.WcfIntegration.pdb
+C:\Users\Steven\git_hub\WCF-REST-Castle Windsor-WCFFacility-Interceptors\WCF-REST-Castle Windsor-WCFFacility-Interceptors\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\Steven\git_hub\WCF-REST-Castle Windsor-WCFFacility-Interceptors\WCF-REST-Castle Windsor-WCFFacility-Interceptors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\git_hub\WCF-REST-Castle Windsor-WCFFacility-Interceptors\WCF-REST-Castle Windsor-WCFFacility-Interceptors\obj\Debug\WCF_REST_WindsorWCFFacility_Interceptors.exe
+C:\Users\Steven\git_hub\WCF-REST-Castle Windsor-WCFFacility-Interceptors\WCF-REST-Castle Windsor-WCFFacility-Interceptors\obj\Debug\WCF_REST_WindsorWCFFacility_Interceptors.pdb

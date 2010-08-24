@@ -1,0 +1,1 @@
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\obj\Release\ResolveAssemblyReference.cache

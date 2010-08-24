@@ -1,0 +1,12 @@
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\bin\Debug\WCF_REST_WindsorWCFFacility_Interceptors.exe
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\bin\Debug\WCF_REST_WindsorWCFFacility_Interceptors.pdb
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\bin\Debug\Castle.Core.dll
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\bin\Debug\Castle.Windsor.dll
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\bin\Debug\Castle.Facilities.WcfIntegration.pdb
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\obj\Debug\WCF_REST_WindsorWCFFacility_Interceptors.exe
+C:\Users\Steven\Documents\Visual Studio 2008\Projects\WCF_REST_WindsorWCFFacility_Interceptors\WCF_REST_WindsorWCFFacility_Interceptors\obj\Debug\WCF_REST_WindsorWCFFacility_Interceptors.pdb
+C:\Users\Steven\git_hub\WCF-REST-Castle Windsor-WCFFacility-Interceptors\WCF-REST-Castle Windsor-WCFFacility-Interceptors\obj\Debug\WCF_REST_WindsorWCFFacility_Interceptors.exe
+C:\Users\Steven\git_hub\WCF-REST-Castle Windsor-WCFFacility-Interceptors\WCF-REST-Castle Windsor-WCFFacility-Interceptors\obj\Debug\WCF_REST_WindsorWCFFacility_Interceptors.pdb

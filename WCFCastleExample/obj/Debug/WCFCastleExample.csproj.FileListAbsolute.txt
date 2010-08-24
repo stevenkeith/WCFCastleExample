@@ -1,0 +1,7 @@
+C:\Users\Steven\git_hub\WCFCastleExample\WCFCastleExample\obj\Debug\WCF_REST_WindsorWCFFacility_Interceptors.exe
+C:\Users\Steven\git_hub\WCFCastleExample\WCFCastleExample\obj\Debug\WCF_REST_WindsorWCFFacility_Interceptors.pdb
+C:\Users\Steven\git_hub\WCFCastleExample\WCFCastleExample\bin\Debug\WCF_REST_WindsorWCFFacility_Interceptors.exe
+C:\Users\Steven\git_hub\WCFCastleExample\WCFCastleExample\bin\Debug\WCF_REST_WindsorWCFFacility_Interceptors.pdb
+C:\Users\Steven\git_hub\WCFCastleExample\WCFCastleExample\bin\Debug\Castle.Facilities.WcfIntegration.pdb
+C:\Users\Steven\git_hub\WCFCastleExample\WCFCastleExample\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\Steven\git_hub\WCFCastleExample\WCFCastleExample\obj\Debug\ResolveAssemblyReference.cache
